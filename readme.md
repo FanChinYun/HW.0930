@@ -1,3 +1,5 @@
+用來記錄上課教了什麼 做為平時考提出出處參考
+
 本repo用來熟悉git(一種版本控制軟體)操作
 
 - git status
@@ -21,8 +23,12 @@
 
 - `git branch` 列出所有版本
 
-- `git branch v1` =將目前的repo新增一個版本v1
+- `git branch v1` 將目前的repo新增一個版本v1
 
-- `git checkout v1` =切換版本v1
+- `git branch -d名稱 ` 刪除版本
+
+- `git branch -m舊名稱/新名稱 ` 版本改名
+
+- `git checkout v1` 切換版本v1
 
 - `git check main` 切換到主版本main
