@@ -21,6 +21,10 @@
 - 超連結
 
   - 符號[讀者看的](網址)
+
+  - 顯示圖型
+   
+   `![](網址)
  
 - 醒目提示(前後加反頓號`)
 
@@ -42,3 +46,11 @@ print("world")
 ```java
 console.log("hello")
 ```
+
+## 範例
+
+![](https://foundations.projectpythia.org/build/GitHub-logo-b252d0be57ed67f10ee6262900d1ab86.png)
+
+![](./) 相對路徑(好)
+
+![](/) 絕對路徑(不太好)

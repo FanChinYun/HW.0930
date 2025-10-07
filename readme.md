@@ -17,7 +17,7 @@
 
 - git commit -m "更改訊息 提示程式員"
 
-- git push
+- git push 釋出
 
 ## 版本控制
 
